@@ -23,22 +23,7 @@
     "gasLimitBoundDivisor": "0x400",
     "maximumExtraDataSize": "0x20",
     "minGasLimit": "0x1388",
-    "networkID": "0x47",
-    
-    "eip140Transition": "0x0",
-    "eip211Transition": "0x0",
-    "eip214Transition": "0x0",
-    "eip658Transition": "0x0",
-    "eip145Transition": 6464300,
-    "eip1014Transition": 6464300,
-    "eip1052Transition": 6464300,
-    "eip1283Transition": 6464300,
-    "eip1283DisableTransition": 7026400,
-    "eip1283ReenableTransition": 12095200,
-    "eip1344Transition": 12095200,
-    "eip1706Transition": 12095200,
-    "eip1884Transition": 12095200,
-    "eip2028Transition": 12095200
+    "networkID": "0x47"
   },
   "genesis": {
     "seal": {
